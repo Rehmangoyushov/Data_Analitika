@@ -20,4 +20,5 @@ Sales Analysis Dashboard (Power BI)
 
 ​Power Query: Məlumatların təmizlənməsi və transformasiyası (ETL).
 
-<img width="1307" height="667" alt="Screenshot 2026-05-09 175241" src="https://github.com/user-attachments/assets/9e74740f-8de6-4927-98d6-698f731eb589" />
+<img width="1009" height="571" alt="Screenshot 2026-06-05 123258" src="https://github.com/user-attachments/assets/e7b30875-459b-4514-b20b-f7b6cf4ea7ef" />
+
